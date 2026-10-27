@@ -1,6 +1,6 @@
 {
   "name": "bg-remove",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Local still-image background removal with preserved alpha and foreground edge decontamination.",
   "author": {
     "name": "Compound Labs",
@@ -29,7 +29,7 @@
         "termsOfServiceURL": "https://github.com/kyisaiah47/bg-remove/blob/main/LICENSE"
       },
       "publication": {
-        "release_notes": "Use the supported Creativity category for marketplace submission."
+        "release_notes": "Add Claude Directory display name and privacy, support, and terms links to the Claude plugin manifest."
       }
     }
   }

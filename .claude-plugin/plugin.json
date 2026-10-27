@@ -1,11 +1,15 @@
 {
   "name": "bg-remove",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Local still-image background removal with preserved alpha and foreground edge decontamination.",
   "author": {
     "name": "Compound Labs"
   },
   "homepage": "https://github.com/kyisaiah47/bg-remove",
   "repository": "https://github.com/kyisaiah47/bg-remove",
-  "license": "LicenseRef-Compound-Labs"
+  "license": "LicenseRef-Compound-Labs",
+  "displayName": "Background Removal",
+  "supportUrl": "https://github.com/kyisaiah47/bg-remove/issues",
+  "privacyPolicyUrl": "https://github.com/kyisaiah47/bg-remove/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/kyisaiah47/bg-remove/blob/main/LICENSE"
 }
