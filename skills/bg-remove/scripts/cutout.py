@@ -13,7 +13,7 @@ import tempfile
 MODEL = "ZhengPeng7/BiRefNet_HR"
 REVISION = "a7a562f6fd16021180f2f4348f4de003a2d3d1e1"
 SIZE = 2048
-VERSION = "0.1.0"
+VERSION = "0.1.1"
 _MODEL = None
 
 

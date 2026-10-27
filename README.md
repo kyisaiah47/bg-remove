@@ -78,3 +78,7 @@ The tests create temporary synthetic fixtures, verify alpha/edge behavior and ou
 Copyright 2026 Compound Labs. All rights reserved. The repository is publicly distributed under the limited usage permission in [`LICENSE`](LICENSE). Third-party dependencies and the downloaded model keep their own licenses. See [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md).
 
 Packaging references: [Claude Code plugins](https://code.claude.com/docs/en/plugins-reference), [OpenAI portable plugin packaging](https://developers.openai.com/plugins/build/plugins).
+
+## Privacy and terms
+
+Read the [data-handling policy](PRIVACY.md) and [usage terms](LICENSE) before use.
