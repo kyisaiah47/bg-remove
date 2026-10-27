@@ -1,6 +1,6 @@
 {
   "name": "bg-remove",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Local still-image background removal with preserved alpha and foreground edge decontamination.",
   "author": {
     "name": "Compound Labs"

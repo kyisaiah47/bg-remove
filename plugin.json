@@ -1,6 +1,6 @@
 {
   "name": "bg-remove",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Local still-image background removal with preserved alpha and foreground edge decontamination.",
   "author": {
     "name": "Compound Labs",
@@ -17,7 +17,7 @@
         "shortDescription": "Clean cutouts without halos",
         "longDescription": "Local still-image background removal with preserved alpha and foreground edge decontamination. Supports Codex and Claude Code. See the repository for setup requirements, tested behavior, and limitations.",
         "developerName": "Compound Labs",
-        "category": "Design",
+        "category": "Creativity",
         "websiteURL": "https://github.com/kyisaiah47/bg-remove",
         "supportURL": "https://github.com/kyisaiah47/bg-remove/issues",
         "defaultPrompt": [
@@ -29,7 +29,7 @@
         "termsOfServiceURL": "https://github.com/kyisaiah47/bg-remove/blob/main/LICENSE"
       },
       "publication": {
-        "release_notes": "Add public data-handling documentation and explicit privacy and license links for marketplace submission."
+        "release_notes": "Use the supported Creativity category for marketplace submission."
       }
     }
   }
