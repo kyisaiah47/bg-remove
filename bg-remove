@@ -1,0 +1,11 @@
+#!/bin/sh
+# Resolve relative to this checkout; never modify a global skill or environment.
+set -eu
+BG_REMOVE_ROOT=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+if [ -n "${BG_REMOVE_PYTHON:-}" ]; then
+  exec "$BG_REMOVE_PYTHON" "$BG_REMOVE_ROOT/skills/bg-remove/scripts/cutout.py" "$@"
+elif [ -x "$BG_REMOVE_ROOT/.venv/bin/python" ]; then
+  exec "$BG_REMOVE_ROOT/.venv/bin/python" "$BG_REMOVE_ROOT/skills/bg-remove/scripts/cutout.py" "$@"
+else
+  exec python3 "$BG_REMOVE_ROOT/skills/bg-remove/scripts/cutout.py" "$@"
+fi

@@ -1,0 +1,1 @@
+The listing icon is from [Lucide 0.468.0](https://github.com/lucide-icons/lucide/tree/0.468.0), used under its [license](LUCIDE-LICENSE). Its paths are unchanged; display size and stroke color are set for the listing. This third-party license applies to the icon, not the Compound Labs package.

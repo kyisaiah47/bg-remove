@@ -1,0 +1,19 @@
+{
+  "name": "compound-bg-remove",
+  "interface": {
+    "displayName": "Compound Labs \u2014 Background Removal"
+  },
+  "plugins": [
+    {
+      "name": "bg-remove",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      }
+    }
+  ]
+}

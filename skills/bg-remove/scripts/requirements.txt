@@ -1,0 +1,13 @@
+# Validated with Python 3.12 on macOS arm64. Keep torch/torchvision paired.
+torch==2.13.0
+torchvision==0.28.0
+transformers==5.15.1
+timm==1.0.28
+kornia==0.8.3
+einops==0.8.2
+opencv-python-headless==5.0.0.93
+pymatting==1.1.15
+numpy==2.5.2
+pillow==12.3.0
+accelerate==1.14.0
+huggingface-hub==1.28.0

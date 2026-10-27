@@ -1,0 +1,14 @@
+{
+  "name": "compound-bg-remove",
+  "owner": {
+    "name": "Compound Labs"
+  },
+  "plugins": [
+    {
+      "name": "bg-remove",
+      "source": "./",
+      "description": "Local still-image background removal with preserved alpha and foreground edge decontamination."
+    }
+  ],
+  "description": "Local image cutouts with foreground edge decontamination for Claude Code."
+}
